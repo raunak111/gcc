@@ -1,0 +1,68 @@
+/* .clock {
+    width: 120px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px; 
+}
+
+.clock .analog-clock {
+    width: 100px;
+    height: 100px;
+    border: solid 4px rgb(82, 206, 82);
+    border-radius: 50%;
+    position: relative;
+}
+.clock .analog-clock .dial {
+    position: absolute; 
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    transform-origin: bottom left;
+}
+.clock .analog-clock .dial.minutes {
+    border-left: solid 1px rgb(82, 206, 82);
+}
+.clock .analog-clock .dial.hours {
+    width: 35px;
+    height: 35px;
+    top: 15px;
+    border-left: solid 3px rgb(82, 206, 82);
+} */
+
+/* to reduce size reduce all value by specific percentahe including clock width */
+
+
+.clock {
+    width: 93.75px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px; 
+}
+
+.clock .analog-clock {
+    width: 75px;
+    height: 75px;
+    border: solid 4px rgb(82, 206, 82);
+    border-radius: 50%;
+    position: relative;
+}
+.clock .analog-clock .dial {
+    position: absolute; 
+    left: 50%;
+    width: 37.5px;
+    height: 37.5px;
+    transform-origin: bottom left;
+}
+.clock .analog-clock .dial.minutes {
+    border-left: solid 1px rgb(82, 206, 82);
+}
+.clock .analog-clock .dial.hours {
+    width: 26.25px;
+    height: 26.25px;
+    top: 11.25px;
+    border-left: solid 3px rgb(82, 206, 82);
+}

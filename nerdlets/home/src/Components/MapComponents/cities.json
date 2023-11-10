@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Austin",
+        "lat": "30.266666",
+        "lng": "-97.733330",
+        "type": "infra",
+        "status": "critical"
+    },
+    {
+        "name": "Chennai",
+        "lat": "13.0827",
+        "lng": "80.2707",
+        "type": "network",
+        "status": "warning"
+    },
+    {
+        "name": "Dublin",
+        "lat": "53.3498",
+        "lng": "6.2603",
+        "type": "network",
+        "status": "null"
+    },
+    {
+        "name": "Berlin",
+        "lat": "52.520008",
+        "lng": "13.4050",
+        "type": "infra",
+        "status": "critical"
+    },
+    {
+        "name": "Tokyo",
+        "lat": "35.6897",
+        "lng": "139.6922",
+        "type": "network",
+        "status": "normal"
+    },
+    {
+        "name": "Canada",
+        "lat": "56.1304",
+        "lng": "106.3468",
+        "type": "network",
+        "status": "normal"
+    },
+    {
+        "name": "London",
+        "lat": "51.5072",
+        "lng": "0.1276",
+        "type": "infra",
+        "status": "normal"
+    },
+    {
+        "name": "Argentina",
+        "lat": "38.4161",
+        "lng": "63.6167",
+        "type": "infra",
+        "status": "warning"
+    },
+    {
+        "name": "Philippine",
+        "lat": "12.8797",
+        "lng": "121.7740",
+        "type": "network",
+        "status": "normal"
+    },
+    {
+        "name": "Manila",
+        "lat": "14.5995",
+        "lng": "120.9842",
+        "type": "network",
+        "status": "null"
+    },
+    {
+        "name": "Singapore",
+        "lat": "1.3521",
+        "lng": "103.8198",
+        "type": "network",
+        "status": "warning"
+    }
+]

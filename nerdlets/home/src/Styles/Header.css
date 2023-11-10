@@ -1,0 +1,37 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+    margin-top: 2%;
+}
+.list{
+    text-decoration: none;
+    margin-right: 6%;
+    font-size: 16px;
+    text-align: center;
+}
+.icon-size{
+    display: block;
+    font-size: 24px !important;
+}
+
+.header-red {
+    color: red;
+    /* margin-right: 6%; */
+}
+
+.header-green {
+    color: green;
+    /* margin-right: 6%; */
+}
+
+.header-grey {
+    color: grey;
+    /* margin-right: 6%; */
+    
+}
+
+.header-yellow {
+    color: rgb(245, 245, 3);
+    /* margin-right: 6%; */
+}

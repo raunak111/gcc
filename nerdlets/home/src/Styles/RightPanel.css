@@ -1,0 +1,42 @@
+
+.sidebarright {
+    position: absolute;
+    top: 100px;
+    right: 0;
+    height: 100%;
+    width: 15vw;
+    transition: right 0.3s ease-in-out;
+    background-color: white;
+    border-left: 2px solid lightgrey;
+    border-top: 6px solid lightgrey;
+}
+
+.sidebar-toggleright {
+    position: absolute;
+    top: 40%;
+    left: -10px;
+    height: 40px;
+    z-index: 1;
+}
+
+.contentright {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    right: 0;
+    height: 100%;
+    transition: right 0.3s ease-in-out;
+    background-color: lightgray;
+}
+
+.sidebarright.open {
+    right: -15vw;
+}
+
+.contentright.open {
+    right: 0;
+}
+
+.icon{
+    color: skyblue;
+}

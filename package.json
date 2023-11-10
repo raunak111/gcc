@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "gcc",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "b8fe89fa-bda3-48f7-b12f-ca2839d572f0"
+    },
+    "dependencies": {
+        "fast-sass-loader": "^2.0.1",
+        "leaflet": "^1.9.4",
+        "prop-types": "15.7.2",
+        "react": "16.8.0",
+        "react-dom": "16.8.0",
+        "react-leaflet": "^2.8.0"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
